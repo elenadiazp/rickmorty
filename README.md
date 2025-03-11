@@ -53,8 +53,9 @@ La estructura del proyecto se organiza de la siguiente manera:
   - **`/Routes`**: Aquí se definen las rutas del proyecto, así como las funciones para realizar peticiones a la API.
 
 ## Enlaces
-[Desplegado](https://rickmorty-six.vercel.app/)
-[Repositorio](https://github.com/ElPabloAS/RickMorty)
+- [Desplegado](https://rickmorty-six.vercel.app/)
+
+- [Repositorio](https://github.com/ElPabloAS/RickMorty)
 
 
 
